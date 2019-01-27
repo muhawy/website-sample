@@ -1,2 +1,2 @@
 # website-sample
-This is a sample of website that i build from Free Code Camp challenge.
+This is sample of pages that i build from Free Code Camp challenge with pure HTML and CSS.
